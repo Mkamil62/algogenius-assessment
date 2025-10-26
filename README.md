@@ -21,7 +21,7 @@ A simple analytics dashboard built with Laravel, Blade templates, and Chart.js. 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Mkamil62/algogenius-assessment.git
 ```
 
 ### 2. Install Dependencies
